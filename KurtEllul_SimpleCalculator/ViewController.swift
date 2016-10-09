@@ -94,11 +94,7 @@ class ViewController: UIViewController {
     
     
     
-    //https://www.youtube.com/watch?v=jc-wyGjVQ8c
     
-    //https://www.youtube.com/watch?v=Bia_R0ZTlNM
-    
-    //https://www.youtube.com/watch?v=4StXK83HPU0
     
     
     
